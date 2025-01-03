@@ -1,0 +1,45 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "products": "Productos",
+    "aboutUs": "Sobre Nosotros",
+    "contact": "Contáctenos"
+  },
+  "header": {
+    "title": "Ofreciendo las mejores especias, algodón de azúcar y pasteles artesanales desde 2008.",
+    "cta": "Explorar Nuestros Productos"
+  },
+  "footer": {
+    "visitUs": "Visítenos",
+    "followUs": "Síganos"
+  },
+  "findUs": {
+    "title": "Encuéntranos en"
+  },
+  "ourProducts": {
+    "title": "Nuestros Productos"
+  },
+  "ourBrands": "Nuestras Marcas",
+  "spices": {
+    "title": "Especias",
+    "description": "Especias frescas y aromáticas."
+  },
+  "seasoning": {
+    "title": "Sazones",
+    "description": "Sazones multiuso fresco y sabroso."
+  },
+  "bakery": {
+    "title": "Panadería",
+    "description": "Recién horneada diariamente."
+  },
+  "cottonCandy": {
+    "title": "Algodón de azúcar",
+    "description": "Delicias dulces y coloridas."
+  },
+  "firstName": "Nombre",
+  "lastName": "Apellido",
+  "email": "Correo Electrónico",
+  "phone": "Número telefónico",
+  "message": "Mensaje",
+  "send": "Enviar Mensaje"
+}

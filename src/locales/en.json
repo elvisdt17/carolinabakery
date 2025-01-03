@@ -1,0 +1,45 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "aboutUs": "About Us",
+    "contact": "Contact Us"
+  },
+  "header": {
+    "title": "Delivering the finest spices, delightful cotton candy, and artisanal pastries since 2008.",
+    "cta": "Explore Our Products"
+  },
+  "footer": {
+    "visitUs": "Visit Us",
+    "followUs": "Follow Us"
+  },
+  "findUs": {
+    "title": "Find Us At"
+  },
+  "ourProducts": {
+    "title": "Our Products"
+  },
+  "ourBrands": "Our Brands",
+  "spices": {
+    "title": "Spices",
+    "description": "Fresh and aromatic spices."
+  },
+  "seasoning": {
+    "title": "Seasoning",
+    "description": "Fresh and flavorful all porpuse seasoning."
+  },
+  "bakery": {
+    "title": "Bakery",
+    "description": "Freshly baked daily."
+  },
+  "cottonCandy": {
+    "title": "Cotton Candy",
+    "description": "Sweet and colorful treats."
+  },
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "phone": "Phone Number",
+  "message": "Message",
+  "send": "Send Message"
+}
