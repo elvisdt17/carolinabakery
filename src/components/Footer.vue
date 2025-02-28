@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-accent text-primary py-8">
+  <footer class="bg-accent text-primary py-8 2xl:py-16">
     <div class="container mx-auto px-4">
       <div class="flex flex-col items-center">
         <!-- Logo container -->
@@ -19,32 +19,32 @@
         <!-- Contact Information -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8 text-center w-full">
           <div class="space-y-2">
-            <h3 class="font-bold text-xl mb-4">{{ $t('footer.visitUs') }}</h3>
-            <p class="text-lg">2051 Champagne Dr</p>
-            <p class="text-lg">Asheboro, NC 27203</p>
+            <h3 class="font-bold text-xl 2xl:text-3xl mb-4">{{ $t('footer.visitUs') }}</h3>
+            <p class="text-lg 2xl:text-2xl">2051 Champagne Dr</p>
+            <p class="text-lg 2xl:text-2xl">Asheboro, NC 27203</p>
           </div>
 
           <div class="space-y-2">
-            <h3 class="font-bold text-xl mb-4">{{ $t('navbar.contact') }}</h3>
+            <h3 class="font-bold text-xl 2xl:text-3xl mb-4">{{ $t('navbar.contact') }}</h3>
             <a 
               href="mailto:info@carolinabakery.com" 
-              class="text-lg block hover:text-secondary transition-colors"
+              class="text-lg 2xl:text-2xl block hover:text-secondary transition-colors"
             >
               carolinabakeryinc@gmail.com
             </a>
-            <p class="text-lg">Tel: (336) 736-8203</p>
+            <p class="text-lg 2xl:text-2xl">Tel: (336) 736-8203</p>
           </div>
 
           <div class="space-y-2">
-            <h3 class="font-bold text-xl mb-4">{{ $t('footer.followUs') }}</h3>
+            <h3 class="font-bold text-xl 2xl:text-3xl mb-4">{{ $t('footer.followUs') }}</h3>
             <a 
               href="https://facebook.com/carolinabakeryinc" 
               target="_blank" 
               rel="noopener noreferrer" 
-              class="text-lg flex items-center justify-center hover:text-secondary transition-colors"
+              class="text-lg 2xl:text-2xl flex items-center justify-center hover:text-secondary transition-colors"
             >
               <svg 
-                class="w-6 h-6 mr-2" 
+                class="size-6 2xl:size-8 mr-2" 
                 fill="currentColor" 
                 viewBox="0 0 24 24"
                 aria-hidden="true"
@@ -62,7 +62,7 @@
 
         <!-- Copyright -->
         <div class="text-center mt-8 pt-8 border-t border-primary w-full">
-          <p>&copy; {{ year }} Carolina Bakery Inc. All rights reserved.</p>
+          <p class="text-lg 2xl:text-xl">&copy; {{ year }} Carolina Bakery Inc. All rights reserved.</p>
         </div>
       </div>
     </div>

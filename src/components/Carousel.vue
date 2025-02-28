@@ -1,8 +1,8 @@
 <template>
-  <div class="container mx-auto px-4 mt-20 mb-20">
-    <h2 class="text-3xl md:text-4xl text-center text-accent mb-2">
+  <div class="container mx-auto px-4 mt-20 mb-44">
+    <h1 class="text-3xl md:text-4xl 2xl:text-5xl text-center text-accent mb-16">
       {{ $t('findUs.title') }}
-    </h2>
+    </h1>
     <div class="relative">
       <swiper
         :modules="modules"
@@ -19,12 +19,12 @@
         <swiper-slide 
           v-for="partner in partners"
           :key="partner.id"
-          class="flex items-center justify-center p-8"
+          class="flex items-center justify-center p-4"
         >
           <img 
             :src="partner.logo" 
             :alt="partner.name"
-            class="max-h-20 opacity-70 hover:opacity-100 transition-opacity duration-200"
+            class="max-h-28 opacity-70 hover:opacity-100 transition-opacity duration-200"
           />
         </swiper-slide>
       </swiper>

@@ -2,9 +2,9 @@
   <div>
     <Navbar />
     <Header />
+    <Brands />
     <ProductGrid />
     <Carousel />
-    <Brands />
     <Footer />
   </div>
 </template>

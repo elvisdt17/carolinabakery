@@ -5,10 +5,17 @@
     "aboutUs": "About Us",
     "contact": "Contact Us"
   },
+  "aboutUs": {
+    "first": "Carolina Bakery is a proud family-owned business founded in 2008 by Elvis Canizares and his wife, Lorena Limon. What began as a small venture with a passion for quality has grown into a trusted name in the food industry. Based in Asheboro, North Carolina, we specialize in manufacturing, packaging, and distributing a wide range of premium products, including freshly baked pound cakes, cotton candy, spices, seasoning blends, and more.",
+    "second": "Our products are available across the Southeastern United States, serving states like Alabama, Georgia, South Carolina, North Carolina, Maryland, and Virginia. We partner with some of the largest supermarket chains to bring our high-quality goods to your table.",
+    "third": "At Carolina Bakery, our mission is simple: to deliver delicious, reliable, and innovative products that delight our customers and their families. With a steadfast commitment to quality and customer satisfaction, we take pride in being a wholesale distribution business that never compromises on excellence.",
+    "fourth": "Whether you're savoring our sweet treats or enhancing your meals with our expertly crafted seasoning blends, Carolina Bakery is dedicated to making life a little more flavorful."
+  },
   "header": {
-    "title": "Delivering the finest spices, delightful cotton candy, and artisanal pastries since 2008.",
+    "title": "Delivering the finest spices, delightful cotton candy, and freshly baked pound cakes since 2008.",
     "cta": "Explore Our Products"
   },
+  "featuredProducts": "Featured Products",
   "footer": {
     "visitUs": "Visit Us",
     "followUs": "Follow Us"
@@ -23,6 +30,18 @@
   "spices": {
     "title": "Spices",
     "description": "Fresh and aromatic spices."
+  },
+  "badia": {
+    "title": "Badia"
+  },
+  "chefmerito": {
+    "title": "Chef Merito"
+  },
+  "zooBakery":{
+    "title": "Zoo Bakery"
+  },
+  "fiesta":{
+    "title": "Fiesta Cotton Candy"
   },
   "seasoning": {
     "title": "Seasoning",

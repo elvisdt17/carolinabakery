@@ -3,12 +3,19 @@
     "home": "Inicio",
     "products": "Productos",
     "aboutUs": "Sobre Nosotros",
-    "contact": "Contáctenos"
+    "contact": "Contáctanos"
+  },
+  "aboutUs": {
+    "first": "Carolina Bakery es un orgulloso negocio familiar fundado en 2008 por Elvis Canizares y su esposa, Lorena Limón. Lo que comenzó como un pequeño emprendimiento con una pasión por la calidad se ha convertido en un nombre de confianza en la industria alimentaria. Con sede en Asheboro, Carolina del Norte, nos especializamos en la fabricación, empaquetado y distribución de una amplia gama de productos de alta calidad, que incluyen bizcochos recién horneados, algodón de azúcar, especias, mezclas de condimentos y más.",
+    "second": "Nuestros productos están disponibles en todo el sureste de los Estados Unidos, llegando a estados como Alabama, Georgia, Carolina del Sur, Carolina del Norte, Maryland y Virginia. Colaboramos con las cadenas de supermercados más grandes para llevar nuestros productos de calidad directamente a tu mesa.",
+    "third": "En Carolina Bakery, nuestra misión es sencilla: ofrecer productos deliciosos, confiables e innovadores que deleiten a nuestros clientes y sus familias. Con un firme compromiso con la calidad y la satisfacción del cliente, nos enorgullecemos de ser un negocio de distribución al por mayor que nunca compromete la excelencia.",
+    "fourth": "Ya sea disfrutando de nuestros dulces o realzando tus comidas con nuestras mezclas de condimentos cuidadosamente elaboradas, Carolina Bakery está dedicada a hacer la vida un poco más sabrosa."
   },
   "header": {
-    "title": "Ofreciendo las mejores especias, algodón de azúcar y pasteles artesanales desde 2008.",
+    "title": "Ofreciendo las mejores especias, algodón de azúcar y bizcochos recién horneados desde 2008.",
     "cta": "Explorar Nuestros Productos"
   },
+  "featuredProducts": "Productos Destacados",
   "footer": {
     "visitUs": "Visítenos",
     "followUs": "Síganos"
@@ -23,6 +30,18 @@
   "spices": {
     "title": "Especias",
     "description": "Especias frescas y aromáticas."
+  },
+  "badia": {
+    "title": "Badia"
+  },
+  "chefmerito": {
+    "title": "Chef Merito"
+  },
+  "zooBakery":{
+    "title": "Zoo Bakery"
+  },
+  "fiesta":{
+    "title": "Fiesta Cotton Candy"
   },
   "seasoning": {
     "title": "Sazones",

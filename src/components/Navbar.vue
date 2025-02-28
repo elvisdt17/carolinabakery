@@ -1,12 +1,12 @@
 <template>
   <nav
-    class="sticky top-0 z-10 flex items-center justify-between px-6 py-1 bg-transparent backdrop-blur-lg transition-colors duration-300"
-    :class="{ 'bg-primary shadow-lg': scrolled }"
+    class="sticky top-0 z-10 flex items-center shadow justify-between px-6 py-1 bg-primary"
+    :class="{ 'shadow-lg': scrolled }"
   >
     <!-- Logo and Company Name -->
     <div class="flex items-center">
-      <img src="../assets/logo.png" alt="Company Logo" class="h-12 sm:h-16 md:h-20 -ml-4" />
-      <span class="ml-3 text-2xl md:text-4xl font-bold text-secondary">Carolina Bakery</span>
+      <img src="../assets/logo.png" alt="Company Logo" class="h-24 -ml-4" />
+      <span class="ml-3 text-4xl font-bold text-secondary">Carolina Bakery</span>
     </div>
 
     <!-- Mobile Menu Button -->
@@ -45,7 +45,7 @@
       <li v-for="item in menuItems" :key="item.route">
         <router-link
           :to="item.route"
-          class="text-secondary hover:text-accent transition-colors text-lg lg:text-2xl font-bold"
+          class="text-secondary hover:text-accent transition-colors text-3xl font-bold"
         >
           {{ $t(item.label) }}
         </router-link>
@@ -73,7 +73,7 @@
     <!-- Language Toggle Button -->
     <button
       @click="toggleLocale"
-      class="hidden md:block px-4 py-2 ml-4 text-sm font-semibold text-white bg-secondary rounded hover:bg-accent transition-colors"
+      class="hidden md:block px-4 py-2 ml-4 text-sm 2xl:text-xl font-semibold text-white bg-secondary rounded hover:bg-accent transition-colors"
     >
       {{ currentLanguage }}
     </button>
